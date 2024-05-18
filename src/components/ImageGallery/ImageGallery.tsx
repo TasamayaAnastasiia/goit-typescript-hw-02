@@ -1,7 +1,6 @@
 import ImageCard from "../ImageCard/ImageCard";
 import css from "../ImageGallery/ImageGallery.module.css";
 import { Image } from "../App/App.types";
-import { FC } from "react";
 
 type Props = {
   list: Image[];
